@@ -1,0 +1,11 @@
+{
+  "name":"帐号管理",
+  "children":[
+    {
+      "name":"重置密码",
+      "icon":"&#xe7c6;",
+      "href":"#/account/reset",
+      "element":"account-reset"
+    }
+  ]
+}

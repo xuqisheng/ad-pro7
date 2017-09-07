@@ -1,0 +1,5 @@
+{
+  "name":"account",
+  "main":"reset.js",
+  "description":"重置密码"
+}

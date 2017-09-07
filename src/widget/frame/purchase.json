@@ -1,0 +1,11 @@
+{
+  "name":"采购模块",
+  "children":[
+    {
+      "name":"采购单查询",
+      "icon":"&#xe804;",
+      "href":"#/purchase/list",
+      "element":"purchase-list"
+    }
+  ]
+}
